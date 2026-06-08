@@ -2,7 +2,7 @@
 ### Global Solution 2026 · FIAP · 1ESW
 **Disciplina:** Edge Computing & Computer Systems  
 **Aluno:** Thiago Kulesza · RM 568922  
-**Turma:** 1ESW  
+**Turma:** 1ESPG  
 
 ---
 
