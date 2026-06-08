@@ -186,4 +186,4 @@ NASA DONKI API
 
 ---
 
-*OrbitAlert · Global Solution 2026 · FIAP · 1ESW*
+*OrbitAlert · Global Solution 2026 · FIAP · 1ESPG-26*
