@@ -170,10 +170,10 @@ NASA DONKI API
 
 | Nome | RM | Disciplina | Entrega |
 |---|---|---|---|
-| Enrico Vidal | 569217 | Front-End + Web Dev | Landing page + GitHub Org |
-| Vinícius Cavalcanti | 570818 | Software & UX | PDF: Backlog, User Flow |
-| **Thiago Kulesza** | **568922** | **Edge Computing** | **Circuito Wokwi + README** |
-| Guilherme de Rosa | 569193 | Python + Matemática + Pitch | Menu Python + gráficos + vídeo |
+| Enrico Vieira de Almeida Vidal | 569217 | Front-End + Web Dev | Landing page + GitHub Org |
+| Vinícius Fuentes Cavalcanti | 570818 | Software & UX | PDF: Backlog, User Flow |
+| Thiago Fernandes Kulesza | 568922 | Edge Computing | Circuito Wokwi + README |
+| Guilherme De Rosa Peres | 569193 | Python + Matemática + Pitch | Menu Python + gráficos + vídeo |
 
 ---
 
