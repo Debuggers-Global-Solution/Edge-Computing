@@ -1,5 +1,5 @@
 # ⚡ OrbitAlert — Edge Computing
-### Global Solution 2026 · FIAP · 1ESW
+### Global Solution 2026 · FIAP · 1ESPG-26
 **Disciplina:** Edge Computing & Computer Systems  
 **Turma:** 1ESPG  
 
