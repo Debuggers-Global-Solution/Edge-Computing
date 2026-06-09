@@ -1,7 +1,6 @@
 # ⚡ OrbitAlert — Edge Computing
 ### Global Solution 2026 · FIAP · 1ESW
 **Disciplina:** Edge Computing & Computer Systems  
-**Aluno:** Thiago Kulesza · RM 568922  
 **Turma:** 1ESPG  
 
 ---
@@ -12,7 +11,7 @@ O **OrbitAlert** é uma plataforma de monitoramento de clima espacial que alerta
 
 Este módulo é o nó de **Edge Computing**: um protótipo simulado no **Wokwi** que detecta variações de radiação solar e emite alertas locais em tempo real, sem depender de conexão com a internet.
 
-> **Base técnica:** arquitetura herdada do **CP2 – Vinheria Agnello** (Debuggers), com média móvel de leituras, menu LCD navegável por botões e buzzer intermitente — adaptada para o contexto de clima espacial.
+> Base técnica: média móvel de leituras, menu LCD navegável por botões e buzzer intermitente — adaptada para o contexto de clima espacial.
 
 ---
 
@@ -114,7 +113,7 @@ FIAP GS26 1ESW
 └──────────────────────────────────────────────────────┘
 ```
 
-**Média móvel (herança CP2):** buffer circular de 10 amostras evita oscilações de display causadas por ruído elétrico no LDR.
+**Média móvel:** buffer circular de 10 amostras evita oscilações de display causadas por ruído elétrico no LDR.
 
 ---
 
